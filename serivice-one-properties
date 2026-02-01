@@ -1,2 +1,2 @@
-message=Hello World from GiHub Config Server
-Server.port=8081
+message=Hello World from GiThub Config Server
+server.port=8081
